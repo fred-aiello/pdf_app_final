@@ -1,0 +1,51 @@
+{
+  "users": {
+    "Fred": {
+      "name": "Fred",
+      "password": "pbkdf2_sha256$260000$43a4a6610cda4a6759d3e57d0c6eca89$90ee734c3ab7f0577bc56e5adc3fe60342844385a6595a4b01612095285ed393",
+      "totp_secret": "EPSHEZARERVC2QCTQJPUNYOFGHKVOERV"
+    },
+    "Fred1": {
+      "name": "Fred1",
+      "email": "fred_aiello@yahoo.fr",
+      "password": "pbkdf2_sha256$260000$d0fae7d43cca95d90ba67c307b5ce57a$10c2036e83490fd487fcc76a3ecdeff21db72723fb6487eaefacbb03a7b076a2",
+      "totp_secret": "ZDB3BUFBN3MSDBATCKVWNCDSQYKTZE7C"
+    },
+    "Fred2": {
+      "name": "Fred2",
+      "email": "fred_aiello@yahoo.fr",
+      "password": "pbkdf2_sha256$260000$57a6a9da856b3322bd9cbe0dfb7ab174$bd5062d068a0f2c2b713928b80c8a722dee86b1e7af94da20d5db891577ee689",
+      "totp_secret": "2KEUPPMMGO3LQXV6M3QGV7Y3UKLNLWSW",
+      "verified": true
+    },
+    "Fred3": {
+      "name": "Fred3",
+      "email": "fred_test@test.fr",
+      "password": "pbkdf2_sha256$260000$ff5832a67e90c6ea1a5ea10c06c6d652$a92cad22268c9cf8cf4ea1dd0a514bcfd5aac0b4ca78ad95d2815751060c3e00",
+      "totp_secret": "TVXCGJ3A2WJT64ZJ75PUPTZOC2KQNURD",
+      "verified": true
+    },
+    "Fred4": {
+      "name": "Fred4",
+      "email": "fred@test.fr",
+      "password": "pbkdf2_sha256$260000$370d2ba4262c2e9dde043a2f892f7528$52a84943c4f7c565d469088085d5027a793939e8bd04c3341d3a64f2741f0d16",
+      "totp_secret": "2DMZ27FA6KJ6L5YIUKGQDHXR7OWHITQJ",
+      "verified": true
+    },
+    "Fred5": {
+      "name": "Fred5",
+      "email": "fr@test.com",
+      "password": "pbkdf2_sha256$260000$a332d0d82bc971f807a1b5f1bcab684c$4a3b32cf739b895bd6971d09f634062cd51af5053274d797546ff059d2b33d12",
+      "totp_secret": "SVTP647CUKA3EJ27ZWYWYDLJDU6EJ27Y",
+      "verified": true
+    },
+    "Fred8": {
+      "name": "Fred8",
+      "email": "fred_aiello@yahoo.fr",
+      "password": "pbkdf2_sha256$260000$8d4fac32d4772a5c506e1a7e97a87e52$d74b01355978ca20663bce822e48475edc98fc021e1d473e2d2edde1c5cd4713",
+      "totp_secret": "Z4J3W53HESGSKL7SVHSU4JHAXHZH7WSV",
+      "verified": false,
+      "verification_token": "GeHRP4DRuu3uLTAhEHb388wdgbKrVUPRKmRrZvnSn00"
+    }
+  }
+}
